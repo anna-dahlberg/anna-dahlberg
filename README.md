@@ -3,7 +3,7 @@
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN5dXl6Z3V0eGl1MzFudTlpZTE0dWd1eXQ4OGFhb2syYzFrYTZtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9MJgsA8L9VrpgyoALs/giphy.gif)
 
-- 🔭 I’m currently working on [Almost On Board, a Node project with Västtrafik's open API](https://github.com/anna-dahlberg/AlmostOnBoard)
+- 🔭 I’m currently working on [Almost On Board](https://github.com/anna-dahlberg/AlmostOnBoard), a Node project with Västtrafik's open API
 
 - 🌱 I’m currently learning **Node.js, C# & Laravel**
 
